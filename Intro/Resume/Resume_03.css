@@ -1,0 +1,188 @@
+body
+{
+    background-color: #010131;
+}
+
+.buttons
+{
+    margin: 2px;
+    margin-left: 1000px;
+}
+
+.button 
+{
+    background-color: rgb(233, 233, 57); 
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.verticle
+{
+    border-left: 3px dotted grey;
+    height: 545px;
+    position: absolute;
+    margin-left: -3px;
+    top: 0;
+    margin-top: 80px;
+}
+
+._1
+{
+    left: 20%;
+}
+
+._2
+{
+    left: 65%;
+}
+
+.container
+{
+    height: 100%;
+    width: 100%;
+}
+
+.left
+{
+    float: left;
+}
+
+.middle
+{
+    margin-top: 40px; 
+    margin-left: 150px;
+    float: left;
+    color: pink;
+}
+
+.right
+{
+    position: relative;
+    float: right;
+    margin-top: 70px;
+    margin-right: 200px;
+}
+
+.sub_heading
+{
+    color: white;
+    font-size: 50px;
+    font: bold;
+}
+
+
+.heading
+{
+    float: left;
+    font-size: 50px;
+    color: pink;
+    margin-left: 50px;
+}
+
+.interest_1
+{
+    height: 100px;
+    width: 100px;
+    background: transparent;
+    margin-top: 80px;
+    margin-left: 40px;
+
+}
+.interest_2
+{
+    height: 100px;
+    width: 100px;
+    background: transparent;
+    margin-left: 40px;
+
+}
+.interest_3
+{
+    height: 50px;
+    width: 150px;
+    background: transparent;
+    margin-left: 30px;
+
+}
+
+h3
+{
+    margin-left: 50px;
+    color: white;
+    font-style: italic;
+}
+
+ul
+{
+    list-style: none;
+}
+
+
+.progress
+{
+    background-color: grey;
+    display: block;
+    height: 10px;
+    border: 1px solid black;
+    border-radius: 3px ;
+    overflow:hidden ;
+}
+
+.progress span
+{
+    height: 10px;
+    float: left;
+    background: linear-gradient(to right, purple,pink);
+}
+
+.c
+{
+    width: 90%;
+}
+
+.html
+{
+    width: 90%;
+}
+
+.css
+{
+    width: 80%;
+}
+
+.javascript
+{
+    width: 50%;
+}
+
+.python
+{
+    width: 50%;
+}
+
+.year
+{
+    color: grey;
+    font-size: larger;
+    font: italic;
+}
+
+.sub
+{
+    color: white;
+    font-size: large;
+}
+
+.sub_2
+{
+    color: pink;
+    font-size: larger;
+}
